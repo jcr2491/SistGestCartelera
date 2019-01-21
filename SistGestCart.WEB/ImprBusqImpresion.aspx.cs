@@ -15,6 +15,10 @@ using SistGestCart.BL;
 using SistGestCart.BE;
 using System.Text;
 using System.IO;
+using System.Collections.Generic;
+using System.Net;
+using System.Web.Script.Serialization;
+
 
 public partial class ImprBusqImpresion : MyBasePage
 {
@@ -1007,6 +1011,16 @@ public partial class ImprBusqImpresion : MyBasePage
                 ComboBox.Enabled = false;
                 check.Enabled = false;
                 texto.Enabled = false;
+            }
+            string skuProducto = GUIA_BL.GetSkuProducto_Campo(Convert.ToInt32(hdIdGuia.Value), Int32.Parse(e.Row.Cells[6].Text));
+            if (skuProducto != "" && skuProducto != "-")
+            {
+                if (!VerificarStock(skuProducto))
+                {
+                    check.Enabled = false;
+                    texto.Enabled = false;
+                    ComboBox.Enabled = false;
+                }
             }            
 
             check.Attributes.Add("onclick", String.Format("CheckeaCheck(this,'{0}')", texto.ClientID));
@@ -1457,5 +1471,49 @@ public partial class ImprBusqImpresion : MyBasePage
             ClientScript.RegisterStartupScript(Page.GetType(), "__ScriptCliente__", sScript.ToString(), true);
         }
     }
-    
+
+    public Boolean VerificarStock(string SkuProducto) 
+    {
+        string URL = "https://api-spsa.pe:8443/supermercados-peruanos-sa/prd-api-spsa/stock/api/v1/stock/PVEA/" + SkuProducto;
+        int stock;
+        bool resp = false;
+        try
+        {
+            HttpWebRequest myReq = (HttpWebRequest)WebRequest.Create(URL);
+            myReq.Method = "GET";
+            myReq.ContentType = "application/json";
+            myReq.Accept = "application/json";
+            WebResponse myResponse = myReq.GetResponse();
+            Stream rebut = myResponse.GetResponseStream();
+            StreamReader readStream = new StreamReader(rebut, Encoding.UTF8);
+            string info = readStream.ReadToEnd();            
+            JavaScriptSerializer javaScriptSerializer = new JavaScriptSerializer();
+            SCE_CONSULTA_STOCK_RESPONSE objeto = (SCE_CONSULTA_STOCK_RESPONSE)javaScriptSerializer.Deserialize<SCE_CONSULTA_STOCK_RESPONSE>(info);
+
+            int code = Convert.ToInt16(objeto.code);
+            if(code==1)
+            {                
+                resp = (objeto.data.totalStockRecords>0);
+            }
+            
+            myResponse.Close();
+            readStream.Close();                     
+        }
+        catch (Exception e1)
+        {
+            Console.Out.WriteLine("-----------------");
+            Console.Out.WriteLine(e1.Message);
+            Response.Write(e1.ToString());
+        }
+        return resp;
+    } 
+
+    protected void grvGuias_SelectedIndexChanged(object sender, EventArgs e)
+    {
+
+    }
+    protected void grvDetalleGuias_SelectedIndexChanged(object sender, EventArgs e)
+    {
+
+    }
 }

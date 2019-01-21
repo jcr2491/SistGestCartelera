@@ -2258,6 +2258,35 @@ namespace SistGestCart.DA
         
         }
 
+        public string GetSkuProducto_Campo(int IdGuia, int IdLinea)
+        {
+            try
+            {
+                using (SqlConnection cn = new SqlConnection(SCE_SQLCONEXION.GetCadConexion(usrLogin)))
+                {
+                    cn.Open();
+                    string sql = "SP_SCE_GUIA_DET_CAMPO_SKU_GET";
+                    
+                    using (SqlCommand cmd = new SqlCommand(sql, cn))
+                    {
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@ID_GUIA", IdGuia);
+                        cmd.Parameters.AddWithValue("@ID_LINEA", IdLinea);
+                        SqlDataReader reader = cmd.ExecuteReader();
+                        string result=string.Empty;
+                        while (reader.Read())
+                        {
+                            result = reader["VALOR"].ToString();
+                        }
 
+                        return result;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }

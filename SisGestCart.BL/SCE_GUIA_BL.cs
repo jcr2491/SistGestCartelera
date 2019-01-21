@@ -3122,8 +3122,9 @@ namespace SistGestCart.BL
 
                 return true;
             }
-            catch
+            catch(Exception ex)
             {
+                string msj = ex.Message;
                 // Cerrar el archivo que se quedo abierto sin guardar los cambios
                 xlWorkBook.Close(false, Type.Missing, Type.Missing);
                 xlApp.Quit();
@@ -3521,6 +3522,19 @@ namespace SistGestCart.BL
             }
 
             AllProcesses = null;
+        }
+
+        public string GetSkuProducto_Campo(int IdGuia, int idLinea)
+        {
+            try
+            {
+                DA.SCE_GUIA_DA DA = new DA.SCE_GUIA_DA(usrLogin);
+                return DA.GetSkuProducto_Campo(IdGuia, idLinea);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
     }
 }
