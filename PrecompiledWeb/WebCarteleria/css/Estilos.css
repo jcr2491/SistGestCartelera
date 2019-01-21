@@ -1,0 +1,918 @@
+TR.itemGridMod TD
+{
+	padding-right: 3px;
+	padding-left: 3px;
+	height: 19px;
+	background-color: #ffffcc;
+}
+
+body
+{
+	margin: 0px 0px 0px 0px;
+	font-family: Tahoma, Verdana, Trebuchet MS, Arial;
+	font-size: 11px;
+	scrollbar-base-color: #f0f0f0;
+	scrollbar-face-color: #f0f0f0;
+	scrollbar-arrow-color: black;
+	scrollbar-3dlight-color: #f0f0f0;
+	scrollbar-highlight-color: #f0f0f0;
+	scrollbar-shadow-color: #3A6F86;
+	scrollbar-darkshadow-color: #f0f0f0;
+}
+
+table tr td
+{
+	font-size: 11px;
+	font-weight: normal;
+}
+
+table tr th
+{
+	padding-left: 3px;
+	font-size: 11px;
+	height: 20px;
+	color: white;
+	font-weight: BOLD;
+	text-align: left;
+}
+
+div
+{
+	font-family: Tahoma, Verdana, Trebuchet MS, Arial;
+	font-size: 11px;
+}
+
+a:link
+{
+	color: #004e72;
+}
+
+a:visited
+{
+	color: #004e72;
+}
+
+a:hover
+{
+	color: #4682b4;
+}
+
+/* CLASES */
+/*---------------------------------------*/
+/* controles asp________________________ */
+
+.cssLinkButton
+{
+	color: #3A6F86;
+}
+
+a.cssLinkButton:link
+{
+	text-decoration: none;
+}
+
+a.cssLinkButton:visited
+{
+	text-decoration: none;
+}
+
+a.cssLinkButton:hover
+{
+	text-decoration: underline;
+}
+
+.cssButtonHiden
+{
+	display: none;
+}
+.cssButton
+{
+	border-right: #4887a2 1px solid;
+	border-top: #4887a2 1px solid;
+	font-size: 11px;
+	background-image: url(../images/bg_menu_h.gif);
+	border-left: #4887a2 1px solid;
+	color: #003399;
+	border-bottom: #4887a2 1px solid;
+	font-family: Tahoma, Verdana, Arial;
+	background-color: #f0f0f0;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.cssTitleLabel
+{
+	padding-left: 5px;
+	font-weight: bolder;
+	font-size: 13px;
+	font-family: Tahoma, Arial;
+}
+
+.cssTitleLabelBar
+{
+	background-color: #FF997D;
+}
+
+.cssTextBox
+{
+	border: 1px solid #4887A2;
+	font-size: 11px;
+	font-family: Tahoma, Verdana, Arial;
+}
+
+.cssReadOnlyTextBox
+{
+	background-color: #EFEFEF;
+	border: 1px solid #4887A2;
+	font-size: 11px;
+	font-family: Tahoma, Verdana, Arial;	
+}
+
+.cssDropDownList
+{
+	border-right: #4887a2 2px solid;
+	border-top: #4887a2 2px solid;
+	font-size: 11px;
+	border-left: #4887a2 2px solid;
+	border-bottom: #4887a2 2px solid;
+	font-family: Tahoma, Verdana, Arial;
+}
+
+.cssGridAltItem
+{
+	height: 18px;
+	font-size: 11px;
+	background-color: #F0F0F0;
+}
+
+.cssGridItem
+{
+	height: 18px;
+	font-size: 11px;
+	background-color: #FAFAFA;
+}
+
+.cssGridHoverItem
+{
+	height: 18px;
+	font-size: 11px;
+	background-image: url(../images/bg_topmenu_h.gif);
+}
+
+.cssGridHeader
+{
+	font-size: 11px;
+	color: White;
+	background-color: #5B96C4;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: center;
+}
+
+.cssGridFooter
+{
+	font-size: 11px;
+	color: White;
+	background-color: #5B96C4;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: right;
+}
+
+.cssComboTree
+{
+	background-color: White;
+	padding-left: 3px;
+	margin-top: 3px;
+	border: solid 1px gray;
+}
+
+.cssDropArrow
+{
+	width: 15px;
+	height: 18px;
+	background-image: url(../images/bg_menu_h.gif);
+	text-align: center;
+	border: solid 1px gray;
+	padding-left: 2px;
+	border-left: none;
+	background-color: Silver;
+}
+
+.cssPopupTreeview
+{
+	border: solid 1px gray;
+	background-color: White;
+	margin-top: -2px;
+	overflow: auto;
+}
+
+.cssPathSeparator
+{
+	font-weight: bold;
+	color: #ff6600;
+}
+
+.cssDataNavigator
+{
+	border: solid 1px #DEDEDE;
+	background-color: #F8F8F8;
+}
+
+.cssSubtitle
+{
+	font-size: 13px;
+	font-family: Tahoma, Arial;
+	color: #3A6F86;
+	text-decoration: underline;
+}
+
+.cssBullets
+{
+	font-size: small;
+	color: Orange;
+	font-weight:bold;
+}
+
+.cssBulletText
+{
+	font-size: small;
+	display: block;
+	border-bottom: lightgrey 1px solid;
+}
+
+.cssUpdateProgress
+{
+	filter: alpha(opacity=60);
+	background-color: #AAAAAA;
+}
+
+/* calendario royal ____________________ */
+
+.picker
+{
+	border-right: gray 1px solid;
+	border-top: gray 1px solid;
+	border-left: gray 1px solid;
+	border-bottom: gray 1px solid;
+	padding-right: 2px;
+	padding-left: 2px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	font-size: 11px;
+	font-family: "Verdana" ,monospace;
+	width: 100px;
+	background-color: #ffffff;
+}
+
+.calendar_button
+{
+	border: none;
+	cursor: hand;
+}
+
+.calendar TD
+{
+	font-size: 11px;
+}
+
+.title, table.title tr td
+{
+	font-weight: bold !important;
+	background-color: #EBEBEB !important;
+}
+
+.day
+{
+	width: 25px;
+	text-align: center;
+	border-width: 1px;
+	border-color: #ffffff;
+	border-style: solid;
+}
+
+.dayhover
+{
+	width: 25px;
+	text-align: center;
+	background-color: #F0F0F0;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	border-style: solid;
+}
+
+.dayheader
+{
+	width: 25px;
+	text-align: center;
+	font-weight: bold;
+	background-color: #E5EFFA;
+}
+
+.othermonthday
+{
+	color: #999999;
+}
+
+.selectedday
+{
+	width: 25px;
+	background-color: #FBE694 !important;
+	color: #000000 !important;
+	border-width: 1px !important;
+	border-color: #BB5503 !important;
+	border-style: solid !important;
+	font-weight: bold !important;
+}
+
+.calendar
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: Black;
+	border-collapse: collapse;
+	background-color: white !important;
+	cursor: default;
+}
+
+TABLE.calendar TR td
+{
+	background-color: transparent;
+}
+
+.month
+{
+	background-color: white;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-top: 0px;
+}
+
+.nextprev
+{
+	height: 25px;
+	vertical-align: middle;
+	padding: 0px 5px 0px 5px;
+}
+
+
+/* general______________________________ */
+
+.cssTexto
+{
+	color: #6C81AD;
+	font-family: Tahoma, Verdana, Trebuchet MS, Arial;
+}
+
+.cssPanelMenu
+{
+	background-color: #f8f8f8;
+	width: 170px;
+}
+
+.cssTextoNegrita
+{
+	font-weight: bold;
+	font-size: 11px;
+	color: black;
+}
+
+.cssNumero
+{
+	text-align: left;
+}
+
+.cssTextoFecha
+{
+	color: #004e72;
+}
+
+.cssTablaPanel
+{
+	border: solid 1px #DEDEDE;
+	background-color: #F8F8F8;
+}
+
+.cssTablaPanelUpload
+{
+	border: none 0;
+	background-color: #F8F8F8;
+	vertical-align: top;
+}
+
+.cssLabelMensaje
+{
+	color: Black;
+	font-weight: bold;
+	font-size: 10px;
+	padding-left: 10px;
+}
+
+TABLE.cssTablaPanel
+{
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+TABLE.cssTablaPanel TR TH
+{
+	font-size: 11px;
+	height: 20px;
+	color: white;
+	font-weight: BOLD;
+	background-image: url(../images/bg_subtitle.gif);
+	text-align: left;
+}
+
+TABLE.cssTablaPanel TR TD
+{
+	font-size: 11px;
+	color: #333333;
+}
+
+.cssPanelSesion
+{
+	text-align: right;
+	background-repeat: repeat-x;
+}
+
+.cssBarraSesion
+{
+	height: 20px;
+	background-image : url(../images/barraacceso.jpg);
+}
+
+/*----------------------------------------------------------------*/
+
+/* Menu RoyalSystems.Web.UI.Menu */
+
+.MenuGroup
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.MenuItem
+{
+	color: #004e72;
+	font-family: tahoma;
+	font-size: 11px;
+	cursor: default;
+	line-height: 22px;
+	background-color: #f8f8f8;
+	text-decoration: none;
+}
+
+.MenuItemContainer
+{
+	color: #004e72;
+	font-family: tahoma;
+	font-size: 11px;
+	cursor: default;
+	height: 22px;
+	filter: progid:DXImageTransform.Microsoft.DropShadow(enabled=true, color=gainsboro, offX=2, offY=2);
+	background-color: #f8f8f8;
+	border: 1px silver solid;
+	text-decoration: none;
+}
+
+.MenuItemHover
+{
+	background-image: url('../images/bg_menu_s.gif' );
+	color: #004e72;
+	font-family: tahoma;
+	font-size: 11px;
+	line-height: 22px;
+	padding-top: -1px;
+	display: block; /* esto para que se active no solo en el texto */
+	cursor: default;
+}
+
+.TopMenuItemHover
+{
+	background-color: #f8f8f8;
+	color: #004e72;
+	font-family: tahoma;
+	font-size: 11px;
+	cursor: default;
+	height: 16px;
+}
+
+.TopMenuItem
+{
+	color: #004e72;
+	font-family: tahoma;
+	font-size: 11px;
+	cursor: default;
+	height: 16px;
+	background-color: Transparent;
+	text-decoration: none;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.MenuItemDown
+{
+	background-image: url(  '../images/bg_menu_s.gif' );
+	color: #004e72;
+	font-family: tahoma;
+	font-size: 11px;
+	cursor: default;
+	height: 22px;
+}
+
+/* Fin de Menu RoyalSystems.Web.UI.Menu */
+
+/* Grid Customs */
+
+.Fondo
+{
+	background-color: #dfdedc; /* Fondo de la grilla */
+}
+
+.FondoCabezera
+{
+	background-color: #5B96C4; /*igual que cssGridHeader*/
+}
+
+/* Fin de Grid Custom */
+
+/* treeview ____________________________ */
+
+.TreeView
+{
+	background-color: White;
+	padding-top: 4px;
+	padding-left: 1px;
+	border: #7C7C94 1px solid;
+	cursor: default;
+}
+
+
+.TreeNode
+{
+	padding-right: 3px;
+	padding-left: 3px;
+	font-size: 11px;
+	padding-bottom: 1px;
+	padding-top: 2px;
+	font-family: tahoma;
+}
+
+.GrayedTreeNode
+{
+	font-family: tahoma;
+	font-size: 11px;
+	padding-top: 2px;
+	padding-bottom: 1px;
+	padding-left: 3px;
+	padding-right: 3px;
+	color: gray;
+	cursor: default;
+}
+
+.HoverTreeNode
+{
+	font-family: tahoma;
+	font-size: 11px;
+	text-decoration: underline;
+	padding-top: 2px;
+	padding-bottom: 1px;
+	padding-left: 3px;
+	padding-right: 3px;
+	cursor: default;
+}
+
+.SelectedTreeNode
+{
+	font-family: tahoma;
+	font-size: 11px;
+	background-color: gray;
+	color: white;
+	padding-top: 2px;
+	padding-bottom: 1px;
+	padding-left: 3px;
+	padding-right: 3px;
+	cursor: default;
+}
+
+.NodeEdit
+{
+	border: 1px gray solid;
+	font-family: tahoma;
+	font-size: 11px;
+}
+
+.NodeRow, TABLE.NodeRow TR TD
+{
+	background-color: white;
+}
+
+/* fin treview */
+
+
+.BordeDiv
+{
+	padding-top: 4px;
+	padding-left: 1px;
+	border: #7C7C94 1px solid;
+	cursor: default;
+}
+
+.IconoHand
+{
+	cursor: hand;
+}
+
+
+
+
+/* REPORTES ______________________________*/
+
+.cssTablaReporte TR TH
+{
+	background-color: darkgray;
+	color: White;
+}
+
+.cssTablaReporte TR TD
+{
+	background-color: #eeeeee;
+	color: black;
+}
+
+/* _______________________________________*/
+
+
+/*  -----Estilos temporales para el tab------ */
+.tab_celda
+{
+	background-color: #DEDEDE;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-color: gainsboro;
+}
+
+.tab_celda_blanco
+{
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-color: gainsboro;
+}
+
+.enlace
+{
+	text-decoration: none;
+	color: Black;
+}
+
+.enlace:link
+{
+	text-decoration: none;
+	color: Black;
+}
+
+.enlace:hover
+{
+	text-decoration: none;
+	color: Black;
+}
+
+.enlace:active
+{
+	text-decoration: none;
+	color: Black;
+}
+/*Estilos para los controles AJAX*/
+/*Modal Popup*/
+.modalBackground
+{
+	background-color: #C0C0C0;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+}
+
+.modalPopup
+{
+	background-color: #F0F0F0;
+	border-width: 1px;
+	border-style: solid;
+	border-color: Gray;
+	padding: 3px;
+	width: 250px;
+}
+
+.cssTabPanel
+{
+	border-left: 1px solid #7C7C94;
+	border-right: 1px solid #7C7C94;
+	border-bottom: 1px solid #7C7C94;
+	background-color: White;
+}
+
+.cssTabActive
+{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	border-top: 1px solid #7C7C94;
+	border-right: 1px solid #7C7C94;
+	border-left: 1px solid #7C7C94;
+	border-bottom: 0px none #7C7C94;
+	background-color: #ffffff;
+	text-align: center;
+	padding-top: 3px;
+	padding-right: 18px;
+	padding-bottom: 3px;
+	padding-left: 18px;
+}
+
+.cssTabInactive
+{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	border-top: 1px solid #7C7C94;
+	border-right: 1px solid #7C7C94;
+	border-left: 1px solid #7C7C94;
+	border-bottom: 1px solid #7C7C94;
+	background-color: #f0f0f0;
+	background-image: url(../images/bg_menu_h.gif);
+	text-align: center;
+	padding-top: 3px;
+	padding-right: 18px;
+	padding-bottom: 3px;
+	padding-left: 18px;
+}
+
+.cssTabRight
+{
+	border-bottom: 1px solid #7C7C94;
+}
+
+.cssTabInactive a:link
+{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #696969;
+	text-decoration: none;
+}
+
+.cssTabInactive a:visited
+{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #696969;
+	text-decoration: none;
+}
+
+.cssTabInactive a:active
+{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #696969;
+	text-decoration: none;
+}
+
+.cssTabInactive a:hover
+{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+
+/* TAB - AJAXTOOLKIT */
+
+.cssTab .ajax__tab_header 
+{
+	border-left: 1px solid #7C7C94;
+	background: url(../images/spacer_tab.gif) repeat-x bottom;
+}
+
+.cssTab .ajax__tab_body
+{
+	margin-top: 6px;
+}
+
+.cssTab .ajax__tab_tab
+{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #696969;
+	margin: 0;
+	text-align: center;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	width: 140px;
+}
+
+.cssTab .ajax__tab_active
+{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	background-color: white;
+	text-decoration: none;
+}
+
+.cssTab .ajax__tab_inner 
+{
+	background: url(../images/bg_menu_h.gif) repeat-x right;
+	border-top: 1px solid #7C7C94;
+	border-bottom: 1px solid #7C7C94;
+	border-right: 1px solid #7C7C94;
+    background-color: white;
+}
+
+.cssTab .ajax__tab_hover .ajax__tab_tab 
+{
+	color:Black;
+}
+
+.cssTab .ajax__tab_active .ajax__tab_tab 
+{
+	color:Black;
+}
+
+.cssTab .ajax__tab_active .ajax__tab_inner 
+{
+	background-image: none;
+	border-bottom: 1px solid white;
+}
+
+/* EXTRA */
+
+.cssGridDetItem1 td, .cssGridDetItem1
+{
+	background-color: #f0f8ff;
+	font-size: 11px;
+	font-family: Tahoma, Verdana, 'Trebuchet MS';
+}
+
+.cssGridDetItem2 td, cssGridDetItem2
+{
+	background-color: #f8f8ff;
+	font-size: 10px;
+	font-family: Tahoma, Verdana, 'Trebuchet MS';
+}
+
+.cssGridDetItem3 td
+{
+	background-color: #fAfAff;
+	font-size: 10px;
+	font-family: Tahoma, Verdana, 'Trebuchet MS';
+}
+
+.cssGridMouseHoverItem
+{
+	height: 18px;
+	font-size: 11px;
+	background-color:#FEE7D0;
+}
+
+.InvalidText
+{
+	background-color:ActiveCaption;
+}
+.cssBarraMenu
+{
+	color:White;
+}
+.cssBarraMenu a
+{
+	color:White;
+}
+
+.lnkWhiteHyperlinks
+{
+	color: #FFFFFF;
+
+}
+
+.PortalBarraLink
+{
+	color: White;
+	text-decoration: none;
+}
+
+.CeldaLavanda
+{
+	background-color: lavender;
+}

@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="msgAlertaEjecución" xml:space="preserve">
+    <value>Se ha realizado correctamente la operación</value>
+  </data>
+  <data name="msgCCCPAlertEjecución" xml:space="preserve">
+    <value>Se ha asociado correctamente el cartel - modelo a la categoría - promoción</value>
+  </data>
+  <data name="msgCCCPAlertEliminacion" xml:space="preserve">
+    <value>Se ha eliminado el cartel - modelo de la categoría - promoción</value>
+  </data>
+  <data name="msgCCCPExistCMCPAsociado" xml:space="preserve">
+    <value>Ya existe asociado un cartel-modelo en la categoría y promoción seleccionados</value>
+  </data>
+  <data name="msgCCCPNoSelCarModel" xml:space="preserve">
+    <value>No ha selecionado el cartel y modelo</value>
+  </data>
+  <data name="msgCCCPNoSelCategoria" xml:space="preserve">
+    <value>No ha seleccionado la categoría</value>
+  </data>
+  <data name="msgCCCPNoSelPromocion" xml:space="preserve">
+    <value>No ha seleccionado la promoción</value>
+  </data>
+  <data name="msgConfirmación" xml:space="preserve">
+    <value>Desea realizar la operación ?</value>
+  </data>
+  <data name="msgConfirmEliminacion" xml:space="preserve">
+    <value>Desea eliminar el registro ?</value>
+  </data>
+  <data name="msgBusquedaNegativa" xml:space="preserve">
+    <value>No se encontraron registros</value>
+  </data>
+  <data name="msgCRCCAlertEjecución" xml:space="preserve">
+    <value>Se ha modificado correctamente los datos del cartel-modelo</value>
+  </data>
+  <data name="msgCampoAliasNoIngresado" xml:space="preserve">
+    <value>No ha ingresado el alias del campo</value>
+  </data>
+  <data name="msgCCampoNoIngresado" xml:space="preserve">
+    <value>No ha ingresado la descripción del campo</value>
+  </data>
+  <data name="msgCampoAlertEjecución" xml:space="preserve">
+    <value>Se ha registrado correctamente del campo</value>
+  </data>
+  <data name="msgCampoAlertEliminacion" xml:space="preserve">
+    <value>Se ha eliminado el campo</value>
+  </data>
+  <data name="msgCampoAlertIR" xml:space="preserve">
+    <value>No se pudo eliminar el campo. Existen registros relacionados que estan siendo afectados por esta acción</value>
+  </data>
+  <data name="msgCampoAlertModificacion" xml:space="preserve">
+    <value>Se ha modificado correctamente los datos del campo</value>
+  </data>
+  <data name="msgTiendaAlertIdNoIngresado" xml:space="preserve">
+    <value>No ha colocado el Id de la tienda</value>
+  </data>
+  <data name="msgTiendaAlertNombNoIngresado" xml:space="preserve">
+    <value>No ha colocado el nombre de la tienda</value>
+  </data>
+  <data name="msgCategoriaAlertEjecucion" xml:space="preserve">
+    <value>Se ha registrado correctamente la categoría</value>
+  </data>
+  <data name="msgCategoriaAlertEliminacion" xml:space="preserve">
+    <value>Se ha eliminado la categoría</value>
+  </data>
+  <data name="msgCategoriaAlertIR" xml:space="preserve">
+    <value>No se pudo eliminar la categoría. Existen registros relacionados que estan siendo afectados por esta acción</value>
+  </data>
+  <data name="msgCategoriaAlertModificacion" xml:space="preserve">
+    <value>Se ha modificado correctamente los datos de la categoría</value>
+  </data>
+  <data name="msgCategoriaAlertNombNoIngresado" xml:space="preserve">
+    <value>No ha colocado el nombre de la categoría</value>
+  </data>
+  <data name="msgPromocionAlertEjecucion" xml:space="preserve">
+    <value>Se ha registrado correctamente la promoción</value>
+  </data>
+  <data name="msgPromocionAlertEliminacion" xml:space="preserve">
+    <value>Se ha eliminado la promoción</value>
+  </data>
+  <data name="msgPromocionAlertIR" xml:space="preserve">
+    <value>No se pudo eliminar la promoción. Existen registros relacionados que estan siendo afectados por esta acción</value>
+  </data>
+  <data name="msgPromocionAlertModificacion" xml:space="preserve">
+    <value>Se ha modificado correctamente los datos de la promoción</value>
+  </data>
+  <data name="msgPromocionAlertNombNoIngresado" xml:space="preserve">
+    <value>No ha colocado el nombre de la promoción</value>
+  </data>
+  <data name="msgTiendaAlertEjecución" xml:space="preserve">
+    <value>Se ha registrado correctamente la tienda</value>
+  </data>
+  <data name="msgTiendaAlertEliminacion" xml:space="preserve">
+    <value>Se ha eliminado la tienda</value>
+  </data>
+  <data name="msgTiendaAlertIR" xml:space="preserve">
+    <value>No se pudo eliminar la tienda. Existen registros relacionados que estan siendo afectados por esta acción</value>
+  </data>
+  <data name="msgTiendaAlertModificacion" xml:space="preserve">
+    <value>Se ha modificado correctamente los datos de la tienda</value>
+  </data>
+  <data name="msgGrupoTiendaAlertEjecución" xml:space="preserve">
+    <value>Se ha registrado correctamente el grupo</value>
+  </data>
+  <data name="msgGrupoTiendaAlertEliminacion" xml:space="preserve">
+    <value>Se ha eliminado el grupo</value>
+  </data>
+  <data name="msgGrupoTiendaAlertIR" xml:space="preserve">
+    <value>El grupo no se pudo eliminar. Existen registros relacionados que estan siendo afectados por esta acción</value>
+  </data>
+  <data name="msgGrupoTiendaAlertModificacion" xml:space="preserve">
+    <value>Se ha modificado correctamente los datos del grupo</value>
+  </data>
+  <data name="msgGrupoTiendaNombNoIngresado" xml:space="preserve">
+    <value>No ha colocado el nombre del grupo</value>
+  </data>
+  <data name="msgGrupoTiendaTdaNoseleccionada" xml:space="preserve">
+    <value>No ha seleccionado la tienda</value>
+  </data>
+  <data name="msgCartelAlertEjecución" xml:space="preserve">
+    <value>Se ha registrado correctamente el cartel</value>
+  </data>
+  <data name="msgCartelAlertEliminacion" xml:space="preserve">
+    <value>Se ha eliminado el cartel</value>
+  </data>
+  <data name="msgCartelAlertIR" xml:space="preserve">
+    <value>No puede eliminar este cartel. Existen registros relacionados que estan siendo afectados por esta acción</value>
+  </data>
+  <data name="msgCartelAlertModificacion" xml:space="preserve">
+    <value>Se ha modificado correctamente los datos del cartel</value>
+  </data>
+  <data name="msgCartelAlertNombNoIngresado" xml:space="preserve">
+    <value>No ha colocado el nombre del cartel</value>
+  </data>
+  <data name="msgCCNoSelCartModelo" xml:space="preserve">
+    <value>No ha selecionado el cartel y modelo</value>
+  </data>
+  <data name="msgBusquedaSinRegistros" xml:space="preserve">
+    <value>No se ha encontrado registros en esta búsqueda</value>
+  </data>
+  <data name="msgCampoAliasLongitudNoPermt" xml:space="preserve">
+    <value>La longitud del Alias del campo sobrepasa la establecida por el sistema</value>
+  </data>
+  <data name="msgCCampoLogitudNoPermt" xml:space="preserve">
+    <value>La longitud del Nombre del campo sobrepasa la establecida por el sistema</value>
+  </data>
+  <data name="msgCampoNombreLongitudNoPermt" xml:space="preserve">
+    <value>La longitud del Nombre del campo sobrepasa la establecida por el sistema</value>
+  </data>
+  <data name="msgCartelLongitudNoPermt" xml:space="preserve">
+    <value>La longitud del Nombre del cartel sobrepasa la establecida por el sistema</value>
+  </data>
+  <data name="msgCategoriaLongitudNoPermt" xml:space="preserve">
+    <value>La longitud del Nombre de la categoría sobrepasa la establecida por el sistema</value>
+  </data>
+  <data name="msgGrupoTiendaLongitudNoPermt" xml:space="preserve">
+    <value>La longitud del Nombre del grupo sobrepasa la establecida por el sistema</value>
+  </data>
+  <data name="msgPromocionLongitudNoPermt" xml:space="preserve">
+    <value>La longitud del Nombre de la promoción sobrepasa la establecida por el sistema</value>
+  </data>
+  <data name="msgTiendaLongitudNoPermt" xml:space="preserve">
+    <value>La longitud del Nombre de la tienda sobrepasa la establecida por el sistema</value>
+  </data>
+  <data name="msgCampoAlertCAP" xml:space="preserve">
+    <value>No se puede eliminar este campo.</value>
+  </data>
+  <data name="msgImpresionBusqTextBusqNull" xml:space="preserve">
+    <value>No ha ingresado el texto de Búsqueda</value>
+  </data>
+  <data name="msgCCNomTiendaBusNull" xml:space="preserve">
+    <value>No ha colocado el nombre de la tienda</value>
+  </data>
+  <data name="msgCampoAlertCAM" xml:space="preserve">
+    <value>No se puede modificar los datos de este campo</value>
+  </data>
+</root>

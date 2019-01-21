@@ -1,0 +1,21 @@
+*******************************
+
+Titulo  :  Se ha registrado un error inesperado
+Modulo  :  Principal.master
+Error   :  Acceso denegado a la ruta de acceso '\\mmsi005\compartido\CAR01_REBAJA_PRECIO_A3 _1D.xlsx'.
+Inner   :  
+Origen  :  mscorlib
+Pila    :     en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   en System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   en ConfConfigurCartel.btnImportar_Click(Object sender, EventArgs e) en c:\SistGestCart-(Prototipo)\SistGestCart.WEB\ConfConfigurCartel.aspx.cs:línea 286
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Fecha   :  15/01/2014 10:01:22 a.m.
+
+*******************************
+

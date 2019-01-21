@@ -1,0 +1,40 @@
+Inicia el proceso de impresion                                         27/02/2014 09:26:10 a.m. sguinet                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia la generacion de la matriz temporal de carteles multiples       27/02/2014 09:26:10 a.m. sguinet                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Finaliza la generacion de la matriz temporal de carteles multiples     27/02/2014 09:28:15 a.m. sguinet                   501  CAR27-TCLargo-2 DIGITO(S)           3  
+Inicia la escritura del archivo Excel del cartel                       27/02/2014 09:28:15 a.m. sguinet_2702092610        501  CAR27-TCLargo-2 DIGITO(S)           3   
+Finaliza la escritura del archivo Excel del cartel                     27/02/2014 09:28:16 a.m. sguinet_2702092610        501  CAR27-TCLargo-2 DIGITO(S)           3   
+Inicia la conversion del archivo Excel del cartel a PDF                27/02/2014 09:28:16 a.m. sguinet_2702092610        501  CAR27-TCLargo-2 DIGITO(S)           3   
+Finaliza la conversion del archivo Excel del cartel a PDF              27/02/2014 09:28:18 a.m. sguinet_2702092610        501  CAR27-TCLargo-2 DIGITO(S)           3   
+Finaliza le proceso de impresion                                       27/02/2014 09:28:18 a.m. sguinet                   501  CAR27-TCLargo-2 DIGITO(S)           3  
+Inicia el proceso de impresion                                         27/02/2014 09:51:01 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia la generacion de la matriz temporal de carteles multiples       27/02/2014 09:51:01 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia el proceso de impresion                                         27/02/2014 09:52:28 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia la generacion de la matriz temporal de carteles multiples       27/02/2014 09:52:29 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia el proceso de impresion                                         27/02/2014 09:53:45 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia la generacion de la matriz temporal de carteles multiples       27/02/2014 09:53:45 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia el proceso de impresion                                         27/02/2014 09:55:10 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia la generacion de la matriz temporal de carteles multiples       27/02/2014 09:55:10 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia el proceso de impresion                                         27/02/2014 09:57:43 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia la generacion de la matriz temporal de carteles multiples       27/02/2014 09:57:44 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia el proceso de impresion                                         27/02/2014 09:59:48 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia la generacion de la matriz temporal de carteles multiples       27/02/2014 09:59:48 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia el proceso de impresion                                         27/02/2014 10:01:29 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia la generacion de la matriz temporal de carteles multiples       27/02/2014 10:01:30 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia el proceso de impresion                                         27/02/2014 10:18:52 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia la generacion de la matriz temporal de carteles multiples       27/02/2014 10:18:52 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia el proceso de impresion                                         27/02/2014 10:21:18 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia la generacion de la matriz temporal de carteles multiples       27/02/2014 10:21:18 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Finaliza la generacion de la matriz temporal de carteles multiples     27/02/2014 10:21:34 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           2  
+Inicia la escritura del archivo Excel del cartel                       27/02/2014 10:21:34 a.m. SGUINET_2702102118        501  CAR27-TCLargo-2 DIGITO(S)           2   
+Finaliza la escritura del archivo Excel del cartel                     27/02/2014 10:21:35 a.m. SGUINET_2702102118        501  CAR27-TCLargo-2 DIGITO(S)           2   
+Inicia la conversion del archivo Excel del cartel a PDF                27/02/2014 10:21:35 a.m. SGUINET_2702102118        501  CAR27-TCLargo-2 DIGITO(S)           2   
+Finaliza la conversion del archivo Excel del cartel a PDF              27/02/2014 10:21:37 a.m. SGUINET_2702102118        501  CAR27-TCLargo-2 DIGITO(S)           2   
+Finaliza le proceso de impresion                                       27/02/2014 10:21:37 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           2  
+Inicia el proceso de impresion                                         27/02/2014 10:22:14 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Inicia la generacion de la matriz temporal de carteles multiples       27/02/2014 10:22:14 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           0  
+Finaliza la generacion de la matriz temporal de carteles multiples     27/02/2014 10:22:43 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           2  
+Inicia la escritura del archivo Excel del cartel                       27/02/2014 10:22:43 a.m. SGUINET_2702102214        501  CAR27-TCLargo-2 DIGITO(S)           2   
+Finaliza la escritura del archivo Excel del cartel                     27/02/2014 10:22:43 a.m. SGUINET_2702102214        501  CAR27-TCLargo-2 DIGITO(S)           2   
+Inicia la conversion del archivo Excel del cartel a PDF                27/02/2014 10:22:43 a.m. SGUINET_2702102214        501  CAR27-TCLargo-2 DIGITO(S)           2   
+Finaliza la conversion del archivo Excel del cartel a PDF              27/02/2014 10:22:45 a.m. SGUINET_2702102214        501  CAR27-TCLargo-2 DIGITO(S)           2   
+Finaliza le proceso de impresion                                       27/02/2014 10:22:45 a.m. SGUINET                   501  CAR27-TCLargo-2 DIGITO(S)           2  

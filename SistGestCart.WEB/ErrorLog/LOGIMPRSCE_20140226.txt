@@ -1,0 +1,112 @@
+Inicia el proceso de impresion                                         26/02/2014 10:44:06 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 10:44:06 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 10:44:26 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 10:44:26 a.m. SGUINET_2602104406        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 10:44:28 a.m. SGUINET_2602104406        501  CAR27-THOR-2 DIGITO(S)              8   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 10:44:28 a.m. SGUINET_2602104406        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 10:44:32 a.m. SGUINET_2602104406        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza le proceso de impresion                                       26/02/2014 10:44:32 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia el proceso de impresion                                         26/02/2014 10:45:20 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 10:45:21 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 10:45:25 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              1  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 10:45:25 a.m. SGUINET_2602104521        501  CAR27-THOR-2 DIGITO(S)              1   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 10:45:25 a.m. SGUINET_2602104521        501  CAR27-THOR-2 DIGITO(S)              1   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 10:45:25 a.m. SGUINET_2602104521        501  CAR27-THOR-2 DIGITO(S)              1   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 10:45:26 a.m. SGUINET_2602104521        501  CAR27-THOR-2 DIGITO(S)              1   
+Finaliza le proceso de impresion                                       26/02/2014 10:45:26 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              1  
+Inicia el proceso de impresion                                         26/02/2014 10:47:12 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 10:47:13 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 10:47:32 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 10:47:32 a.m. SGUINET_2602104713        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 10:47:33 a.m. SGUINET_2602104713        501  CAR27-THOR-2 DIGITO(S)              8   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 10:47:33 a.m. SGUINET_2602104713        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 10:47:38 a.m. SGUINET_2602104713        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza le proceso de impresion                                       26/02/2014 10:47:38 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia el proceso de impresion                                         26/02/2014 10:51:31 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 10:51:31 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 10:51:50 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 10:51:50 a.m. SGUINET_2602105131        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 10:51:50 a.m. SGUINET_2602105131        501  CAR27-THOR-2 DIGITO(S)              8   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 10:51:50 a.m. SGUINET_2602105131        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 10:51:55 a.m. SGUINET_2602105131        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza le proceso de impresion                                       26/02/2014 10:51:55 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia el proceso de impresion                                         26/02/2014 11:34:44 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 11:34:45 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 11:37:23 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 11:37:23 a.m. SGUINET_2602113445        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 11:37:24 a.m. SGUINET_2602113445        501  CAR27-THOR-2 DIGITO(S)              8   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 11:37:24 a.m. SGUINET_2602113445        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 11:37:29 a.m. SGUINET_2602113445        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza le proceso de impresion                                       26/02/2014 11:37:29 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia el proceso de impresion                                         26/02/2014 11:38:11 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 11:38:11 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 11:39:17 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 11:39:17 a.m. SGUINET_2602113811        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 11:39:17 a.m. SGUINET_2602113811        501  CAR27-THOR-2 DIGITO(S)              8   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 11:39:17 a.m. SGUINET_2602113811        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 11:39:22 a.m. SGUINET_2602113811        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza le proceso de impresion                                       26/02/2014 11:39:22 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia el proceso de impresion                                         26/02/2014 11:41:12 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 11:41:12 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 11:41:35 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 11:41:35 a.m. SGUINET_2602114112        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 11:41:35 a.m. SGUINET_2602114112        501  CAR27-THOR-2 DIGITO(S)              8   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 11:41:35 a.m. SGUINET_2602114112        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 11:41:40 a.m. SGUINET_2602114112        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza le proceso de impresion                                       26/02/2014 11:41:40 a.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia el proceso de impresion                                         26/02/2014 02:56:48 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 02:56:48 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 02:59:01 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 02:59:01 p.m. SGUINET_2602145648        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 02:59:03 p.m. SGUINET_2602145648        501  CAR27-THOR-2 DIGITO(S)              8   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 02:59:03 p.m. SGUINET_2602145648        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 02:59:07 p.m. SGUINET_2602145648        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza le proceso de impresion                                       26/02/2014 02:59:07 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia el proceso de impresion                                         26/02/2014 03:07:10 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 03:07:10 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 03:07:23 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 03:07:23 p.m. SGUINET_2602150710        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 03:07:24 p.m. SGUINET_2602150710        501  CAR27-THOR-2 DIGITO(S)              8   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 03:07:24 p.m. SGUINET_2602150710        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 03:07:28 p.m. SGUINET_2602150710        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza le proceso de impresion                                       26/02/2014 03:07:28 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia el proceso de impresion                                         26/02/2014 03:41:06 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 03:41:06 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 03:41:16 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 03:41:31 p.m. SGUINET_2602154106        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 03:49:11 p.m. SGUINET_2602154106        501  CAR27-THOR-2 DIGITO(S)              8   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 03:49:11 p.m. SGUINET_2602154106        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 03:49:15 p.m. SGUINET_2602154106        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza le proceso de impresion                                       26/02/2014 03:49:16 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia el proceso de impresion                                         26/02/2014 03:51:55 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 03:51:55 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 03:52:08 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 03:52:10 p.m. SGUINET_2602155155        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 03:52:11 p.m. SGUINET_2602155155        501  CAR27-THOR-2 DIGITO(S)              8   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 03:52:11 p.m. SGUINET_2602155155        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 03:52:16 p.m. SGUINET_2602155155        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza le proceso de impresion                                       26/02/2014 03:52:16 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia el proceso de impresion                                         26/02/2014 03:54:56 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 03:54:56 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 03:55:05 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 03:55:15 p.m. SGUINET_2602155456        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 03:55:16 p.m. SGUINET_2602155456        501  CAR27-THOR-2 DIGITO(S)              8   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 03:55:16 p.m. SGUINET_2602155456        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 03:55:21 p.m. SGUINET_2602155456        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza le proceso de impresion                                       26/02/2014 03:55:21 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia el proceso de impresion                                         26/02/2014 04:44:13 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 04:44:14 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 04:55:26 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 04:55:32 p.m. SGUINET_2602164414        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 04:55:34 p.m. SGUINET_2602164414        501  CAR27-THOR-2 DIGITO(S)              8   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 04:55:34 p.m. SGUINET_2602164414        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 04:55:38 p.m. SGUINET_2602164414        501  CAR27-THOR-2 DIGITO(S)              8   
+Finaliza le proceso de impresion                                       26/02/2014 04:55:38 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              8  
+Inicia el proceso de impresion                                         26/02/2014 05:07:31 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Inicia la generacion de la matriz temporal de carteles multiples       26/02/2014 05:07:31 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              0  
+Finaliza la generacion de la matriz temporal de carteles multiples     26/02/2014 05:13:46 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              1  
+Inicia la escritura del archivo Excel del cartel                       26/02/2014 05:13:47 p.m. SGUINET_2602170731        501  CAR27-THOR-2 DIGITO(S)              1   
+Finaliza la escritura del archivo Excel del cartel                     26/02/2014 05:13:48 p.m. SGUINET_2602170731        501  CAR27-THOR-2 DIGITO(S)              1   
+Inicia la conversion del archivo Excel del cartel a PDF                26/02/2014 05:13:48 p.m. SGUINET_2602170731        501  CAR27-THOR-2 DIGITO(S)              1   
+Finaliza la conversion del archivo Excel del cartel a PDF              26/02/2014 05:13:49 p.m. SGUINET_2602170731        501  CAR27-THOR-2 DIGITO(S)              1   
+Finaliza le proceso de impresion                                       26/02/2014 05:13:49 p.m. SGUINET                   501  CAR27-THOR-2 DIGITO(S)              1  

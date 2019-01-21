@@ -1,0 +1,14 @@
+E:\DELTA SANDRO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SisGestCart.BL.dll
+E:\DELTA SANDRO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SisGestCart.BL.pdb
+E:\DELTA SANDRO\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\ResolveAssemblyReference.cache
+E:\DELTA SANDRO\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SisGestCart.BL.dll
+E:\DELTA SANDRO\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SisGestCart.BL.pdb
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SisGestCart.BL.dll
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SisGestCart.BL.pdb
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\ResolveAssemblyReference.cache
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SisGestCart.BL.dll
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SisGestCart.BL.pdb
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.dll
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.dll
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.pdb
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.pdb

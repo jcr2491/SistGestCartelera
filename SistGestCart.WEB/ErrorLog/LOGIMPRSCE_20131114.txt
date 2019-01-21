@@ -1,0 +1,8 @@
+Inicia el proceso de impresion                                         14/11/2013 05:58:12 p.m. SGUINET                   501  CAR01-A3-1 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         14/11/2013 05:58:12 p.m. SGUINET                   501  CAR01-A3-1 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       14/11/2013 05:58:12 p.m. SGUINET                   501  CAR01-A3-1 DIGITO(S)                3  
+Inicia la escritura del archivo Excel del cartel                       14/11/2013 05:58:12 p.m. SGUINET_1411175812        501  CAR01-A3-1 DIGITO(S)                3   
+Finaliza la escritura del archivo Excel del cartel                     14/11/2013 05:58:14 p.m. SGUINET_1411175812        501  CAR01-A3-1 DIGITO(S)                3   
+Inicia la conversion del archivo Excel del cartel a PDF                14/11/2013 05:58:14 p.m. SGUINET_1411175812        501  CAR01-A3-1 DIGITO(S)                3   
+Finaliza la conversion del archivo Excel del cartel a PDF              14/11/2013 05:58:17 p.m. SGUINET_1411175812        501  CAR01-A3-1 DIGITO(S)                3   
+Finaliza le proceso de impresion                                       14/11/2013 05:58:17 p.m. SGUINET                   501  CAR01-A3-1 DIGITO(S)                3  

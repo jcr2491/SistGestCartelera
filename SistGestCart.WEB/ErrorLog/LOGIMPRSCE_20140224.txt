@@ -1,0 +1,410 @@
+Inicia el proceso de impresion                                         24/02/2014 10:23:21 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 10:23:21 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 10:23:21 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 10:23:21 a.m. sguinet_2402102321        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 10:23:23 a.m. sguinet_2402102321        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 10:23:23 a.m. sguinet_2402102321        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 10:23:26 a.m. sguinet_2402102321        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 10:23:26 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 10:23:34 a.m. sguinet                   501  CAR09-TC SEIS-2 DIGITO(S)           0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 10:23:34 a.m. sguinet                   501  CAR09-TC SEIS-2 DIGITO(S)           0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 10:23:34 a.m. sguinet                   501  CAR09-TC SEIS-2 DIGITO(S)           1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 10:23:34 a.m. sguinet_2402102334        501  CAR09-TC SEIS-2 DIGITO(S)           1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 10:23:35 a.m. sguinet_2402102334        501  CAR09-TC SEIS-2 DIGITO(S)           1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 10:23:35 a.m. sguinet_2402102334        501  CAR09-TC SEIS-2 DIGITO(S)           1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 10:23:36 a.m. sguinet_2402102334        501  CAR09-TC SEIS-2 DIGITO(S)           1   
+Finaliza le proceso de impresion                                       24/02/2014 10:23:36 a.m. sguinet                   501  CAR09-TC SEIS-2 DIGITO(S)           1  
+Inicia el proceso de impresion                                         24/02/2014 10:43:22 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 10:43:23 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 10:43:23 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 10:43:23 a.m. sguinet_2402104322        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 10:43:23 a.m. sguinet_2402104322        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 10:43:23 a.m. sguinet_2402104322        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 10:43:26 a.m. sguinet_2402104322        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 10:43:26 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 10:43:35 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 10:43:35 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 10:43:37 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 10:43:37 a.m. sguinet_2402104335        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 10:43:37 a.m. sguinet_2402104335        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 10:43:37 a.m. sguinet_2402104335        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 10:43:38 a.m. sguinet_2402104335        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 10:43:38 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 10:43:51 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 10:43:51 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 10:43:53 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 10:43:53 a.m. sguinet_2402104351        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 10:43:53 a.m. sguinet_2402104351        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 10:43:53 a.m. sguinet_2402104351        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 10:43:54 a.m. sguinet_2402104351        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 10:43:54 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 10:46:57 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 10:46:57 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 10:46:57 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 10:46:57 a.m. sguinet_2402104657        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 10:46:58 a.m. sguinet_2402104657        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 10:46:58 a.m. sguinet_2402104657        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 10:47:00 a.m. sguinet_2402104657        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 10:47:00 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 10:47:09 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 10:47:09 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 10:47:11 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 10:47:11 a.m. sguinet_2402104709        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 10:47:11 a.m. sguinet_2402104709        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 10:47:11 a.m. sguinet_2402104709        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 10:47:12 a.m. sguinet_2402104709        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 10:47:12 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 10:47:16 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 10:47:16 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 10:47:18 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 10:47:18 a.m. sguinet_2402104716        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 10:47:18 a.m. sguinet_2402104716        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 10:47:18 a.m. sguinet_2402104716        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 10:47:19 a.m. sguinet_2402104716        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 10:47:19 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 10:47:28 a.m. sguinet                   501  CAR09-A3-MULTIPLE-2 DIGITO(S)       0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 10:47:28 a.m. sguinet                   501  CAR09-A3-MULTIPLE-2 DIGITO(S)       0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 10:47:28 a.m. sguinet                   501  CAR09-A3-MULTIPLE-2 DIGITO(S)       4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 10:47:28 a.m. sguinet_2402104728        501  CAR09-A3-MULTIPLE-2 DIGITO(S)       4   
+Se genero una excepcion                                                24/02/2014 10:47:28 a.m. sguinet_2402104728        501  CAR09-A3-MULTIPLE-2 DIGITO(S)       4   Ya se agregó un elemento con la misma clave.
+Finaliza le proceso de impresion                                       24/02/2014 10:47:28 a.m. sguinet                   501  CAR09-A3-MULTIPLE-2 DIGITO(S)       4  
+Inicia el proceso de impresion                                         24/02/2014 10:47:44 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 10:47:44 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 10:47:45 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 10:47:45 a.m. sguinet_2402104744        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 10:47:45 a.m. sguinet_2402104744        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 10:47:45 a.m. sguinet_2402104744        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 10:47:46 a.m. sguinet_2402104744        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 10:47:47 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 10:47:54 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 10:47:54 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 10:47:55 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 10:47:55 a.m. sguinet_2402104754        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 10:47:55 a.m. sguinet_2402104754        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 10:47:55 a.m. sguinet_2402104754        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 10:47:56 a.m. sguinet_2402104754        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 10:47:56 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 11:12:32 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:12:32 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:12:32 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:12:32 a.m. sguinet_2402111232        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:12:33 a.m. sguinet_2402111232        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:12:33 a.m. sguinet_2402111232        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:12:35 a.m. sguinet_2402111232        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 11:12:35 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:12:42 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 11:12:42 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 11:12:43 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:12:43 a.m. sguinet_2402111242        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:12:43 a.m. sguinet_2402111242        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:12:43 a.m. sguinet_2402111242        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:12:45 a.m. sguinet_2402111242        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 11:12:45 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 11:12:48 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 11:12:48 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 11:12:50 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:12:50 a.m. sguinet_2402111248        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:12:50 a.m. sguinet_2402111248        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:12:50 a.m. sguinet_2402111248        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:12:51 a.m. sguinet_2402111248        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 11:12:52 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 11:22:16 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:22:16 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:22:16 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:22:16 a.m. sguinet_2402112216        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:22:17 a.m. sguinet_2402112216        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:22:17 a.m. sguinet_2402112216        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:22:27 a.m. sguinet_2402112216        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 11:22:27 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:22:46 a.m. sguinet                   501  CAR09-A4-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:22:46 a.m. sguinet                   501  CAR09-A4-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:22:46 a.m. sguinet                   501  CAR09-A4-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:22:46 a.m. sguinet_2402112246        501  CAR09-A4-2 DIGITO(S)                4   
+Se genero una excepcion                                                24/02/2014 11:22:46 a.m. sguinet_2402112246        501  CAR09-A4-2 DIGITO(S)                4   Ya se agregó un elemento con la misma clave.
+Finaliza le proceso de impresion                                       24/02/2014 11:22:46 a.m. sguinet                   501  CAR09-A4-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:22:53 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 11:22:53 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 11:22:55 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:22:55 a.m. sguinet_2402112253        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:22:55 a.m. sguinet_2402112253        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:22:55 a.m. sguinet_2402112253        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:22:57 a.m. sguinet_2402112253        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 11:22:57 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 11:23:07 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 11:23:07 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 11:23:08 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:23:08 a.m. sguinet_2402112307        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:23:08 a.m. sguinet_2402112307        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:23:08 a.m. sguinet_2402112307        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:23:09 a.m. sguinet_2402112307        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 11:23:09 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 11:23:19 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:23:19 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:23:19 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:23:19 a.m. sguinet_2402112319        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:23:19 a.m. sguinet_2402112319        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:23:19 a.m. sguinet_2402112319        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:23:22 a.m. sguinet_2402112319        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 11:23:22 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:23:30 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:23:30 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:23:30 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:23:30 a.m. sguinet_2402112330        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:23:30 a.m. sguinet_2402112330        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:23:30 a.m. sguinet_2402112330        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:23:33 a.m. sguinet_2402112330        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 11:23:33 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:24:52 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:24:52 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:24:53 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:24:53 a.m. sguinet_2402112452        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:24:54 a.m. sguinet_2402112452        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:24:54 a.m. sguinet_2402112452        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:24:56 a.m. sguinet_2402112452        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 11:24:57 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:25:04 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:25:04 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:25:04 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:25:04 a.m. sguinet_2402112504        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:25:04 a.m. sguinet_2402112504        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:25:04 a.m. sguinet_2402112504        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:25:06 a.m. sguinet_2402112504        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 11:25:06 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:25:15 a.m. sguinet                   501  CAR09-A4-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:25:15 a.m. sguinet                   501  CAR09-A4-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:25:15 a.m. sguinet                   501  CAR09-A4-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:25:15 a.m. sguinet_2402112515        501  CAR09-A4-2 DIGITO(S)                4   
+Se genero una excepcion                                                24/02/2014 11:25:15 a.m. sguinet_2402112515        501  CAR09-A4-2 DIGITO(S)                4   Ya se agregó un elemento con la misma clave.
+Finaliza le proceso de impresion                                       24/02/2014 11:25:15 a.m. sguinet                   501  CAR09-A4-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:25:20 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 11:25:20 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 11:25:21 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:25:21 a.m. sguinet_2402112520        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:25:22 a.m. sguinet_2402112520        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:25:22 a.m. sguinet_2402112520        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:25:23 a.m. sguinet_2402112520        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 11:25:23 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 11:25:46 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 11:25:46 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 11:25:48 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:25:48 a.m. sguinet_2402112546        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:25:48 a.m. sguinet_2402112546        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:25:48 a.m. sguinet_2402112546        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:25:49 a.m. sguinet_2402112546        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 11:25:49 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 11:25:56 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:25:56 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:25:56 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:25:56 a.m. sguinet_2402112556        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:25:56 a.m. sguinet_2402112556        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:25:56 a.m. sguinet_2402112556        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:25:59 a.m. sguinet_2402112556        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 11:25:59 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:33:57 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:33:57 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:33:57 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:33:57 a.m. sguinet_2402113357        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:33:57 a.m. sguinet_2402113357        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:33:57 a.m. sguinet_2402113357        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:34:00 a.m. sguinet_2402113357        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 11:34:00 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:34:07 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 11:34:07 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 11:34:08 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:34:08 a.m. sguinet_2402113407        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:34:08 a.m. sguinet_2402113407        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:34:08 a.m. sguinet_2402113407        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:34:09 a.m. sguinet_2402113407        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 11:34:09 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 11:34:13 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 11:34:13 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 11:34:14 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:34:14 a.m. sguinet_2402113413        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:34:14 a.m. sguinet_2402113413        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:34:14 a.m. sguinet_2402113413        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:34:15 a.m. sguinet_2402113413        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 11:34:15 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 11:36:10 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:36:10 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:36:11 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:36:11 a.m. sguinet_2402113610        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:36:12 a.m. sguinet_2402113610        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:36:12 a.m. sguinet_2402113610        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:36:14 a.m. sguinet_2402113610        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 11:36:14 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:36:26 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 11:36:26 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 11:36:28 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:36:28 a.m. sguinet_2402113626        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:36:28 a.m. sguinet_2402113626        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:36:28 a.m. sguinet_2402113626        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:36:29 a.m. sguinet_2402113626        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 11:36:29 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 11:39:55 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:39:55 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:39:55 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:39:55 a.m. sguinet_2402113955        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:39:56 a.m. sguinet_2402113955        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:39:56 a.m. sguinet_2402113955        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:39:59 a.m. sguinet_2402113955        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 11:39:59 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:40:12 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 11:40:12 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 11:40:13 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:40:13 a.m. sguinet_2402114012        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:40:13 a.m. sguinet_2402114012        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:40:13 a.m. sguinet_2402114012        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:40:14 a.m. sguinet_2402114012        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 11:40:14 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 11:40:19 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 11:40:19 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 11:40:21 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:40:21 a.m. sguinet_2402114019        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:40:21 a.m. sguinet_2402114019        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:40:21 a.m. sguinet_2402114019        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:40:22 a.m. sguinet_2402114019        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 11:40:22 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 11:44:46 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:44:46 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:44:46 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:44:46 a.m. sguinet_2402114446        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:44:48 a.m. sguinet_2402114446        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:44:48 a.m. sguinet_2402114446        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:44:51 a.m. sguinet_2402114446        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 11:44:51 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:44:59 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 11:44:59 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 11:45:01 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:45:01 a.m. sguinet_2402114459        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:45:01 a.m. sguinet_2402114459        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:45:01 a.m. sguinet_2402114459        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:45:02 a.m. sguinet_2402114459        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 11:45:02 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 11:58:20 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 11:58:20 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 11:58:20 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:58:20 a.m. sguinet_2402115820        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:58:21 a.m. sguinet_2402115820        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:58:21 a.m. sguinet_2402115820        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:58:24 a.m. sguinet_2402115820        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 11:58:24 a.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 11:58:34 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 11:58:34 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 11:58:35 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 11:58:35 a.m. sguinet_2402115834        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 11:58:35 a.m. sguinet_2402115834        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 11:58:35 a.m. sguinet_2402115834        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 11:58:37 a.m. sguinet_2402115834        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 11:58:37 a.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 12:00:21 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 12:00:21 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 12:00:21 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 12:00:21 p.m. sguinet_2402120021        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 12:00:22 p.m. sguinet_2402120021        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 12:00:22 p.m. sguinet_2402120021        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 12:00:24 p.m. sguinet_2402120021        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 12:00:25 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 12:00:34 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 12:00:34 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 12:00:35 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 12:00:35 p.m. sguinet_2402120034        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 12:00:36 p.m. sguinet_2402120034        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 12:00:36 p.m. sguinet_2402120034        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 12:00:37 p.m. sguinet_2402120034        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 12:00:37 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 12:05:21 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 12:05:22 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 12:05:22 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 12:05:22 p.m. sguinet_2402120522        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 12:05:23 p.m. sguinet_2402120522        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 12:05:23 p.m. sguinet_2402120522        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 12:05:26 p.m. sguinet_2402120522        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 12:05:26 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 12:05:43 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 12:05:43 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 12:05:43 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 12:05:43 p.m. sguinet_2402120543        501  CAR09-A3-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 12:05:43 p.m. sguinet_2402120543        501  CAR09-A3-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 12:05:43 p.m. sguinet_2402120543        501  CAR09-A3-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 12:05:45 p.m. sguinet_2402120543        501  CAR09-A3-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 12:05:45 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 12:05:51 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 12:05:51 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 12:05:51 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 12:05:51 p.m. sguinet_2402120551        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 12:05:51 p.m. sguinet_2402120551        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 12:05:52 p.m. sguinet_2402120551        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 12:05:53 p.m. sguinet_2402120551        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 12:05:53 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 04:00:02 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 04:00:02 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 04:00:02 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 04:00:02 p.m. sguinet_2402160002        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 04:00:03 p.m. sguinet_2402160002        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 04:00:03 p.m. sguinet_2402160002        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 04:00:06 p.m. sguinet_2402160002        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 04:00:06 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 04:00:16 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 04:00:16 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 04:00:25 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 04:00:25 p.m. sguinet_2402160016        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 04:00:25 p.m. sguinet_2402160016        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 04:00:25 p.m. sguinet_2402160016        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 04:00:26 p.m. sguinet_2402160016        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 04:00:27 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 05:47:35 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 05:47:36 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 05:47:36 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 05:47:36 p.m. sguinet_2402174735        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 05:47:37 p.m. sguinet_2402174735        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 05:47:37 p.m. sguinet_2402174735        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 05:47:40 p.m. sguinet_2402174735        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 05:47:40 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 05:47:54 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 05:47:54 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 05:48:02 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 05:48:02 p.m. sguinet_2402174754        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 05:48:02 p.m. sguinet_2402174754        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 05:48:02 p.m. sguinet_2402174754        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 05:48:04 p.m. sguinet_2402174754        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 05:48:04 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 05:56:10 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 05:56:10 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 05:56:10 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 05:56:10 p.m. sguinet_2402175610        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 05:56:11 p.m. sguinet_2402175610        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 05:56:11 p.m. sguinet_2402175610        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 05:56:14 p.m. sguinet_2402175610        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 05:56:14 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 05:56:21 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 05:56:22 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 05:56:31 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 05:56:31 p.m. sguinet_2402175621        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 05:56:31 p.m. sguinet_2402175621        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 05:56:31 p.m. sguinet_2402175621        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 05:56:32 p.m. sguinet_2402175621        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 05:56:32 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 05:58:51 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/02/2014 05:58:51 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/02/2014 05:58:52 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 05:58:52 p.m. sguinet_2402175851        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 05:58:52 p.m. sguinet_2402175851        501  CAR09-A3-2 DIGITO(S)                4   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 05:58:52 p.m. sguinet_2402175851        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 05:58:55 p.m. sguinet_2402175851        501  CAR09-A3-2 DIGITO(S)                4   
+Finaliza le proceso de impresion                                       24/02/2014 05:58:55 p.m. sguinet                   501  CAR09-A3-2 DIGITO(S)                4  
+Inicia el proceso de impresion                                         24/02/2014 05:59:07 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 05:59:08 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 05:59:17 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 05:59:17 p.m. sguinet_2402175908        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 05:59:17 p.m. sguinet_2402175908        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 05:59:17 p.m. sguinet_2402175908        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 05:59:19 p.m. sguinet_2402175908        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 05:59:19 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia el proceso de impresion                                         24/02/2014 05:59:25 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles multiples       24/02/2014 05:59:25 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles multiples     24/02/2014 05:59:36 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  
+Inicia la escritura del archivo Excel del cartel                       24/02/2014 05:59:36 p.m. sguinet_2402175925        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la escritura del archivo Excel del cartel                     24/02/2014 05:59:36 p.m. sguinet_2402175925        501  CAR09-TC-2 DIGITO(S)                1   
+Inicia la conversion del archivo Excel del cartel a PDF                24/02/2014 05:59:36 p.m. sguinet_2402175925        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/02/2014 05:59:38 p.m. sguinet_2402175925        501  CAR09-TC-2 DIGITO(S)                1   
+Finaliza le proceso de impresion                                       24/02/2014 05:59:38 p.m. sguinet                   501  CAR09-TC-2 DIGITO(S)                1  

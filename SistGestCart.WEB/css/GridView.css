@@ -1,0 +1,36 @@
+﻿body {
+}
+
+ /* Grilla */
+        
+.Grid 
+{	
+    width: 100%;
+}
+
+.GridHeader 
+{	
+    color: white;    
+    /* top: expression(this.offsetParent.scrollTop - 2); */    
+    background-color:  #FF6600;    
+    /* font-weight: bold; */    
+    font-size: 12px;    
+    /* position: relative; */    
+    /* position:absolute; */
+}
+
+.GridRow
+ {
+    color: #000000;
+    background-color: #FFFFFF;
+    font-weight: normal;
+    font-size: 10px;
+}
+
+.GridAlternateRow 
+{
+    color: #000000;
+    background-color: #F9F7ED;
+    font-weight: normal;
+    font-size: 10px;
+} 

@@ -1,0 +1,142 @@
+﻿body {
+}
+        
+ .DivBorder {
+        border-top: 1px solid #E5E5E5;
+        border-right: 1px solid #E5E5E5;
+        border-left: 1px solid #E5E5E5;
+        border-bottom: 1px solid #E5E5E5;
+   }
+           
+  .DivBoxDetCampos {
+        width:430px;        
+        border:1px solid black;
+  }
+          
+  .DivBoxDetPromociones {
+        width:440px;
+        border:1px solid black;
+  }
+  
+  .DivBoxDetCategorias {
+        width:440px;
+        border:1px solid black;
+  }
+  
+  .DivBoxDetCarteles {
+        width:430px;
+        border:1px solid black;
+  }
+  
+  .DivBoxDetTiendas {
+        width:440px;
+        border:1px solid black;
+  }
+  
+  .DivBoxDetGrupTiendas {
+        width:395px;
+        border:1px solid black;
+  }
+  
+  .DivBoxDetConfReglCamps {
+        width:520px;
+        border:1px solid black;
+  }
+  
+  .DivBoxDetConfCartel1 {
+        width:440px;
+        border:1px solid black;
+  }
+  
+  .DivBoxDetConfCartel2 {
+        width:370px;
+        border:1px solid black;
+  }
+  
+  .DivBoxDetConfCartel3 {
+        width:415px;
+        border:1px solid black;
+  }
+  
+  .DivBoxDetConfCartCarProm {
+       width:432px;
+       border:1px solid black;
+  }
+  
+  .DivBoxDetCargaGuia {
+        width:550px;        
+        border:1px solid black;
+  }
+  
+  .DivBoxDetGuiaManual1 
+  {
+  		width:1000px;
+        border:1px solid black;
+  }
+  
+  .DivBoxDetGuiaManual2 {
+        width:468px;
+        border:1px solid black;
+  }
+  
+  .DivBoxDetGuiaManual3 {
+        width:500px;
+        border:1px solid black;
+  }
+  
+  .DivBoxDetGuiaAutomatica1 {
+        width:870px;        
+        border:1px solid black;
+  }
+  
+  .DivBoxDetGuiaAutomatica2 {
+       width:845px;       
+       border:1px solid black;
+  }
+  
+  .DivBoxDetGuiaAutomatica3 {
+       width:535px;       
+       border:1px solid black;
+  }
+  
+  .DivBoxDetGuiaAutomatica4 {
+       width:470px;       
+       border:1px solid black;
+  }
+  
+  .DivBoxDetGuiaAutomatica5 {
+       width:600px;       
+       border:1px solid black;
+  }
+  
+  .DivBoxDetImprCartel {
+        width:680px;        
+        border:1px solid black;
+  }
+  
+  .DivBoxDetExepciones {
+        width:300px;
+        border:1px solid black;
+  }
+           
+ .DivGridview
+  {
+	/*width: 100%;*/
+	overflow: auto;
+	padding: 0px;
+	scrollbar-face-color:#EBF5FF;
+	scrollbar-base-color:#EBF5FF;
+	scrollbar-arrow-color:black;
+	scrollbar-track-color:#F3F3F3;
+	scrollbar-shadow-color:#EBF5FF;
+	scrollbar-highlight-color:#EBF5FF;
+	scrollbar-3dlight-color:#78AAFF;
+	scrollbar-darkshadow-Color:#78AAFF;
+	border-top: 1px solid #E5E5E5;
+    border-right: 1px solid #E5E5E5;
+    border-left: 1px solid #E5E5E5;
+    border-bottom: 1px solid #E5E5E5;
+ }
+
+
+   

@@ -1,0 +1,103 @@
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.dll
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.pdb
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\LibSCA.dll
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.dll
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.dll
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\LibSCA.pdb
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.pdb
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.pdb
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\ResolveAssemblyReference.cache
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.dll
+E:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.pdb
+C:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.dll
+C:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.pdb
+C:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\LibSCA.dll
+C:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.dll
+C:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.dll
+C:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\LibSCA.pdb
+C:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.pdb
+C:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.pdb
+C:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.dll
+C:\DELTA SANDRO\PROYECTO CARTELERIA\PROTOTIPO\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.pdb
+C:\DELTA SANDRO\PROYECTO CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.dll
+C:\DELTA SANDRO\PROYECTO CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.pdb
+C:\DELTA SANDRO\PROYECTO CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.dll
+C:\DELTA SANDRO\PROYECTO CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.dll
+C:\DELTA SANDRO\PROYECTO CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.pdb
+C:\DELTA SANDRO\PROYECTO CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.pdb
+C:\DELTA SANDRO\PROYECTO CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\DELTA SANDRO\PROYECTO CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.dll
+C:\DELTA SANDRO\PROYECTO CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.pdb
+C:\SistGestCart-(Prototipo) SS\SisGestCart.BL\bin\Debug\SistGestCart.BL.dll
+C:\SistGestCart-(Prototipo) SS\SisGestCart.BL\bin\Debug\SistGestCart.BL.pdb
+C:\SistGestCart-(Prototipo) SS\SisGestCart.BL\bin\Debug\SistGestCart.BE.dll
+C:\SistGestCart-(Prototipo) SS\SisGestCart.BL\bin\Debug\SistGestCart.DA.dll
+C:\SistGestCart-(Prototipo) SS\SisGestCart.BL\bin\Debug\SistGestCart.BE.pdb
+C:\SistGestCart-(Prototipo) SS\SisGestCart.BL\bin\Debug\SistGestCart.DA.pdb
+C:\SistGestCart-(Prototipo) SS\SisGestCart.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\SistGestCart-(Prototipo) SS\SisGestCart.BL\obj\Debug\SistGestCart.BL.dll
+C:\SistGestCart-(Prototipo) SS\SisGestCart.BL\obj\Debug\SistGestCart.BL.pdb
+C:\Users\sp40220040\Documents\Intercorp_SPSA\Carteleria\5. Construccion\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.dll
+C:\Users\sp40220040\Documents\Intercorp_SPSA\Carteleria\5. Construccion\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.pdb
+C:\Users\sp40220040\Documents\Intercorp_SPSA\Carteleria\5. Construccion\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\sp40220040\Documents\Intercorp_SPSA\Carteleria\5. Construccion\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.dll
+C:\Users\sp40220040\Documents\Intercorp_SPSA\Carteleria\5. Construccion\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.dll
+C:\Users\sp40220040\Documents\Intercorp_SPSA\Carteleria\5. Construccion\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.pdb
+C:\Users\sp40220040\Documents\Intercorp_SPSA\Carteleria\5. Construccion\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.pdb
+C:\Users\sp40220040\Documents\Intercorp_SPSA\Carteleria\5. Construccion\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sp40220040\Documents\Intercorp_SPSA\Carteleria\5. Construccion\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.dll
+C:\Users\sp40220040\Documents\Intercorp_SPSA\Carteleria\5. Construccion\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.pdb
+C:\BACKUP CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.dll
+C:\BACKUP CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.pdb
+C:\BACKUP CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.dll
+C:\BACKUP CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.dll
+C:\BACKUP CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.pdb
+C:\BACKUP CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.pdb
+C:\BACKUP CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\BACKUP CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.dll
+C:\BACKUP CARTELERIA\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.pdb
+C:\SistGestCart-(Prototipo)xxxxxx\SisGestCart.BL\bin\Debug\SistGestCart.BL.dll
+C:\SistGestCart-(Prototipo)xxxxxx\SisGestCart.BL\bin\Debug\SistGestCart.BL.pdb
+C:\SistGestCart-(Prototipo)xxxxxx\SisGestCart.BL\bin\Debug\SistGestCart.BE.dll
+C:\SistGestCart-(Prototipo)xxxxxx\SisGestCart.BL\bin\Debug\SistGestCart.DA.dll
+C:\SistGestCart-(Prototipo)xxxxxx\SisGestCart.BL\bin\Debug\SistGestCart.BE.pdb
+C:\SistGestCart-(Prototipo)xxxxxx\SisGestCart.BL\bin\Debug\SistGestCart.DA.pdb
+C:\SistGestCart-(Prototipo)xxxxxx\SisGestCart.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\SistGestCart-(Prototipo)xxxxxx\SisGestCart.BL\obj\Debug\SistGestCart.BL.dll
+C:\SistGestCart-(Prototipo)xxxxxx\SisGestCart.BL\obj\Debug\SistGestCart.BL.pdb
+C:\Users\sandro\Desktop\PROYECTO CARTELERIA\FUENTES\APP\SistGestCart-(Prototipo) DES2\SisGestCart.BL\bin\Debug\SistGestCart.BL.dll
+C:\Users\sandro\Desktop\PROYECTO CARTELERIA\FUENTES\APP\SistGestCart-(Prototipo) DES2\SisGestCart.BL\bin\Debug\SistGestCart.BL.pdb
+C:\Users\sandro\Desktop\PROYECTO CARTELERIA\FUENTES\APP\SistGestCart-(Prototipo) DES2\SisGestCart.BL\bin\Debug\SistGestCart.BE.dll
+C:\Users\sandro\Desktop\PROYECTO CARTELERIA\FUENTES\APP\SistGestCart-(Prototipo) DES2\SisGestCart.BL\bin\Debug\SistGestCart.DA.dll
+C:\Users\sandro\Desktop\PROYECTO CARTELERIA\FUENTES\APP\SistGestCart-(Prototipo) DES2\SisGestCart.BL\bin\Debug\SistGestCart.BE.pdb
+C:\Users\sandro\Desktop\PROYECTO CARTELERIA\FUENTES\APP\SistGestCart-(Prototipo) DES2\SisGestCart.BL\bin\Debug\SistGestCart.DA.pdb
+C:\Users\sandro\Desktop\PROYECTO CARTELERIA\FUENTES\APP\SistGestCart-(Prototipo) DES2\SisGestCart.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sandro\Desktop\PROYECTO CARTELERIA\FUENTES\APP\SistGestCart-(Prototipo) DES2\SisGestCart.BL\obj\Debug\SistGestCart.BL.dll
+C:\Users\sandro\Desktop\PROYECTO CARTELERIA\FUENTES\APP\SistGestCart-(Prototipo) DES2\SisGestCart.BL\obj\Debug\SistGestCart.BL.pdb
+D:\HILEL\PROYECTO_ACT\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.dll
+D:\HILEL\PROYECTO_ACT\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.pdb
+D:\HILEL\PROYECTO_ACT\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\ClosedXML.dll
+D:\HILEL\PROYECTO_ACT\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\HILEL\PROYECTO_ACT\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.dll
+D:\HILEL\PROYECTO_ACT\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.dll
+D:\HILEL\PROYECTO_ACT\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\office.dll
+D:\HILEL\PROYECTO_ACT\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\ClosedXML.xml
+D:\HILEL\PROYECTO_ACT\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.pdb
+D:\HILEL\PROYECTO_ACT\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.pdb
+D:\HILEL\PROYECTO_ACT\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\HILEL\PROYECTO_ACT\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.dll
+D:\HILEL\PROYECTO_ACT\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.pdb
+C:\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.dll
+C:\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BL.pdb
+C:\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\ClosedXML.dll
+C:\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.dll
+C:\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.dll
+C:\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\office.dll
+C:\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\ClosedXML.xml
+C:\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.DA.pdb
+C:\SistGestCart-(Prototipo)\SisGestCart.BL\bin\Debug\SistGestCart.BE.pdb
+C:\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.dll
+C:\SistGestCart-(Prototipo)\SisGestCart.BL\obj\Debug\SistGestCart.BL.pdb

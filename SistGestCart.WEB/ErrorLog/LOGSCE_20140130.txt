@@ -1,0 +1,38 @@
+*******************************
+
+Titulo  :  Se ha registrado un error inesperado
+Modulo  :  ConfConfigurCartel.aspx
+Error   :  Referencia a objeto no establecida como instancia de un objeto.
+Inner   :  
+Origen  :  SistGestCart.BL
+Pila    :     en SistGestCart.BL.SCE_CARTEL_MODELO_BL.ListarCMConf() en C:\SistGestCart-(Prototipo)\SisGestCart.BL\SCE_CARTEL_MODELO_BL.cs:línea 190
+   en ConfConfigurCartel.CargaCartelesModelo() en c:\SistGestCart-(Prototipo)\SistGestCart.WEB\ConfConfigurCartel.aspx.cs:línea 119
+   en ConfConfigurCartel.Page_Load(Object sender, EventArgs e) en c:\SistGestCart-(Prototipo)\SistGestCart.WEB\ConfConfigurCartel.aspx.cs:línea 141
+   en System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   en System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   en System.Web.UI.Control.OnLoad(EventArgs e)
+   en System.Web.UI.Control.LoadRecursive()
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Fecha   :  30/01/2014 10:22:04 a.m.
+
+*******************************
+
+*******************************
+
+Titulo  :  Se ha registrado un error inesperado
+Modulo  :  Principal.master
+Error   :  Error de inicio de sesión: nombre de usuario desconocido o contraseña incorrecta
+Inner   :  
+Origen  :  SistGestCart.BL
+Pila    :     en SistGestCart.BL.WI..ctor(String domainName, String userName, String password) en C:\SistGestCart-(Prototipo)\SisGestCart.BL\WI.cs:línea 71
+   en ConfConfigurCartel.btnImportar_Click(Object sender, EventArgs e) en c:\SistGestCart-(Prototipo)\SistGestCart.WEB\ConfConfigurCartel.aspx.cs:línea 344
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Fecha   :  30/01/2014 10:23:17 a.m.
+
+*******************************
+

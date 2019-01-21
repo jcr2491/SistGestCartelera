@@ -1,0 +1,8 @@
+Inicia el proceso de impresion                                         24/04/2014 10:11:53 a.m. CESPINOZA                 195  CAR01-A3-1 DIGITO(S)                0  
+Inicia la generacion de la matriz temporal de carteles simples         24/04/2014 10:11:53 a.m. CESPINOZA                 195  CAR01-A3-1 DIGITO(S)                0  
+Finaliza la generacion de la matriz temporal de carteles simples       24/04/2014 10:11:53 a.m. CESPINOZA                 195  CAR01-A3-1 DIGITO(S)                8  
+Inicia la escritura del archivo Excel del cartel                       24/04/2014 10:11:53 a.m. CESPINOZA_2404101153      195  CAR01-A3-1 DIGITO(S)                8   
+Finaliza la escritura del archivo Excel del cartel                     24/04/2014 10:11:54 a.m. CESPINOZA_2404101153      195  CAR01-A3-1 DIGITO(S)                8   
+Inicia la conversion del archivo Excel del cartel a PDF                24/04/2014 10:11:54 a.m. CESPINOZA_2404101153      195  CAR01-A3-1 DIGITO(S)                8   
+Finaliza la conversion del archivo Excel del cartel a PDF              24/04/2014 10:11:59 a.m. CESPINOZA_2404101153      195  CAR01-A3-1 DIGITO(S)                8   
+Finaliza le proceso de impresion                                       24/04/2014 10:11:59 a.m. CESPINOZA                 195  CAR01-A3-1 DIGITO(S)                8  

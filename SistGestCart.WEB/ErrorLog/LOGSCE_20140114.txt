@@ -1,0 +1,125 @@
+*******************************
+
+Titulo  :  Se ha registrado un error inesperado
+Modulo  :  ConfConfigurCartel.aspx
+Error   :  Referencia a objeto no establecida como instancia de un objeto.
+Inner   :  
+Origen  :  SistGestCart.BL
+Pila    :     en SistGestCart.BL.SCE_CARTEL_MODELO_BL.ListarCMConf() en C:\SistGestCart-(Prototipo)\SisGestCart.BL\SCE_CARTEL_MODELO_BL.cs:línea 190
+   en ConfConfigurCartel.CargaCartelesModelo() en c:\SistGestCart-(Prototipo)\SistGestCart.WEB\ConfConfigurCartel.aspx.cs:línea 35
+   en ConfConfigurCartel.Page_Load(Object sender, EventArgs e) en c:\SistGestCart-(Prototipo)\SistGestCart.WEB\ConfConfigurCartel.aspx.cs:línea 57
+   en System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   en System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   en System.Web.UI.Control.OnLoad(EventArgs e)
+   en System.Web.UI.Control.LoadRecursive()
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Fecha   :  14/01/2014 11:37:20 a.m.
+
+*******************************
+
+*******************************
+
+Titulo  :  Se ha registrado un error inesperado
+Modulo  :  Principal.master
+Error   :  Acceso denegado a la ruta de acceso '\\mmsi005\compartido\CAR01_REBAJA_PRECIO_A3 _1D.xlsx'.
+Inner   :  
+Origen  :  mscorlib
+Pila    :     en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   en System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   en ConfConfigurCartel.btnImportar_Click(Object sender, EventArgs e) en c:\SistGestCart-(Prototipo)\SistGestCart.WEB\ConfConfigurCartel.aspx.cs:línea 262
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Fecha   :  14/01/2014 03:54:11 p.m.
+
+*******************************
+
+*******************************
+
+Titulo  :  Se ha registrado un error inesperado
+Modulo  :  Principal.master
+Error   :  Acceso denegado a la ruta de acceso '\\mmsi005\\compartido\\CAR01_REBAJA_PRECIO_A3 _1D.xlsx'.
+Inner   :  
+Origen  :  mscorlib
+Pila    :     en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   en System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   en ConfConfigurCartel.btnImportar_Click(Object sender, EventArgs e) en c:\SistGestCart-(Prototipo)\SistGestCart.WEB\ConfConfigurCartel.aspx.cs:línea 262
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Fecha   :  14/01/2014 04:30:21 p.m.
+
+*******************************
+
+*******************************
+
+Titulo  :  Se ha registrado un error inesperado
+Modulo  :  Principal.master
+Error   :  No se encuentra el nombre de red especificado.
+
+Inner   :  
+Origen  :  mscorlib
+Pila    :     en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   en System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   en ConfConfigurCartel.btnImportar_Click(Object sender, EventArgs e) en c:\SistGestCart-(Prototipo)\SistGestCart.WEB\ConfConfigurCartel.aspx.cs:línea 280
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Fecha   :  14/01/2014 06:09:38 p.m.
+
+*******************************
+
+*******************************
+
+Titulo  :  Se ha registrado un error inesperado
+Modulo  :  Principal.master
+Error   :  Acceso denegado a la ruta de acceso '\\mmsi005\compartido\CAR01_REBAJA_PRECIO_A3 _1D.xlsx'.
+Inner   :  
+Origen  :  mscorlib
+Pila    :     en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   en System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   en ConfConfigurCartel.btnImportar_Click(Object sender, EventArgs e) en c:\SistGestCart-(Prototipo)\SistGestCart.WEB\ConfConfigurCartel.aspx.cs:línea 280
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Fecha   :  14/01/2014 06:10:59 p.m.
+
+*******************************
+
+*******************************
+
+Titulo  :  Se ha registrado un error inesperado
+Modulo  :  Principal.master
+Error   :  Acceso denegado a la ruta de acceso '\\mmsi005\\compartido\\CAR01_REBAJA_PRECIO_A3 _1D.xlsx'.
+Inner   :  
+Origen  :  mscorlib
+Pila    :     en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   en System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   en ConfConfigurCartel.btnImportar_Click(Object sender, EventArgs e) en c:\SistGestCart-(Prototipo)\SistGestCart.WEB\ConfConfigurCartel.aspx.cs:línea 280
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Fecha   :  14/01/2014 06:17:52 p.m.
+
+*******************************
+

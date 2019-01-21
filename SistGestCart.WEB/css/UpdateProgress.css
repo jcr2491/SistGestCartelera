@@ -1,0 +1,87 @@
+﻿.overlay  
+{
+  position: fixed;
+  z-index: 98;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+    background-color: #E8E8E8; 
+    filter: alpha(opacity=80); 
+    opacity: 0.8;
+}
+.overlayContent
+{
+  z-index: 99;
+  margin: 250px auto;
+  width: 80px;
+  height: 80px;
+}
+.overlayContent h2
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+}
+.overlayContent img
+{
+  width: 80px;
+  height: 80px;
+}
+
+/* Cajas de Color */
+.txt_blanco
+{
+	color:#fff;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.txt_gris
+{
+	color:#757e89;
+	font-family:Tahoma;
+}
+.txt_Azul
+{
+	color:#204c94;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.TextoMenu
+{
+	font-size:11px;
+	font-weight:normal;
+	z-index:0;
+}
+.SelectedRow 
+{ 
+	background-color:#ff0000;
+	color:#fff
+}
+.progresspanel
+{
+	background-color: RED;
+	color: White;
+	top: 1px;color: white;position: absolute;
+	right: 16px;z-index: 999;
+}
+.updateProgress
+{
+	border-width: 1px;border-style: solid;
+	background-color: #FFFFFF;
+	position: absolute;
+	width: 180px;
+	height: 65px;
+}
+.modalBackground
+{
+	background-color:Gray;
+	filter:alpha(opacity=70);opacity:0.7;
+}
+.bordepuntostabla
+{
+	border-right: #a7b1c2 1px dotted;
+	BORDER-TOP: #a7b1c2 1px dotted;
+	BORDER-LEFT: #a7b1c2 1px dotted;
+	BORDER-BOTTOM: #a7b1c2 1px dotted
+}
+
+
